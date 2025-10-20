@@ -8,5 +8,5 @@ pyautogui.PAUSE=False
 for _ in range(50):
     time.sleep(0.001)
     pyautogui.keyDown("volumeUp")
-#plays a really loud sound
+#plays a really loud sound download audio file
 playsound.playsound("HEEEEELP.mp3")
